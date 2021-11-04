@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/Hoangphu1607"><img src="https://api.daily.dev/devcards/07f8100e9c7a4f27ba101ada540246fa.png?r=p4m" width="400" alt="Hoang Phu's Dev Card"/></a>
+
 <!--
 **HoangPhu98/HoangPhu98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
