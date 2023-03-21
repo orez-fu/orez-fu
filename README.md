@@ -104,5 +104,5 @@
 ## Connect with Me 🤝🏻 &nbsp;
 
 <h3 align="center">
-<a href="https://www.linkedin.com/in/hoang-phu-7a151b165"><img src="https://img.shields.io/badge/-Ahmed%20Tariq-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:phuhoang.c2@gmail.com"><img src="https://img.shields.io/badge/-ahmed.tm097@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hoang-phu-7a151b165"><img src="https://img.shields.io/badge/-Hoang%20Phu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:phuhoang.c2@gmail.com"><img src="https://img.shields.io/badge/-phuhoang.c2@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
