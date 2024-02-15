@@ -1,4 +1,4 @@
-![image](https://github.com/orez-fu/orez-fu/assets/23703971/ea918ece-9ee8-4fb7-85ce-05ec55be5af1)# Hi, I'm Hoang Phu 👋
+# Hi, I'm Hoang Phu 👋
 
 <a href="https://app.daily.dev/Hoangphu1607"><img src="https://api.daily.dev/devcards/07f8100e9c7a4f27ba101ada540246fa.png?r=nv1" width="400" alt="Hoang Phu's Dev Card"/></a>
 
