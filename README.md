@@ -48,7 +48,7 @@ Here are some ideas to get you started:
         <img src="https://d3r49iyjzglexf.cloudfront.net/circleci-logo-stacked-fb-657e221fda1646a7e652c09c9fbfb2b0feb5d710089bb4d8e8c759d37a832694.png" width="60">
     </td>
     <td align='center' width="190" height= "60">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx7gZu_cvdZ1-Mp8wzg04BKEZTgD1WD6Gd4tEha3pzFeV4VLp6w5a4dvUJe5lj-6FKVhs&usqp=CAU">
+        <img src="https://landscape.cncf.io/logos/345eb026a54643f2ae6a08d6c39cc16bdacaef9fe02f6f31f767ade77a25245f.svg">
     </td>
     <td align='center' width="190" height= "60">
         <img src="https://gitlab.com/uploads/-/system/group/avatar/7139401/gitlab-ci-cd-logo_2x.png">
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 </tr>
 
 <tr>
-    </td> -->
+    </td>
     <td align='center'>
         <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png">
     </td>
